@@ -2,7 +2,7 @@
 - 👀 I’m interested in atuar como desenvolvedor.
 - 🌱 I’m currently learning JAVASCRIPT, PHP, SLQSERVE, JAVA,  um pouco de  tudo...
 - 💞️ I’m looking to collaborate com a comunidade de DEVs
-- 📫 How to reach me ...
+- 📫 How to reach me ... renildopaesJoob@gmail.com 
 
 <!---
 RenildoPaesJob/RenildoPaesJob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
