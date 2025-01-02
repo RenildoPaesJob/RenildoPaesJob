@@ -6,7 +6,7 @@
 - ***💞️ Colaboração:*** Estou aberto(a) a contribuir e aprender junto com a comunidade de desenvolvedores.
 
 - ***Contato***
-✉️ E-mail: renildopaesJoob@gmail.com
+✉️ E-mail: renildopaesjoob@gmail.com
 Fique à vontade para entrar em contato e trocar ideias. Vamos construir coisas incríveis juntos(as)!
 
 <!---
